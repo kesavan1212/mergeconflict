@@ -1,0 +1,179 @@
+nav{
+    background-image: url(img/bc4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 350px;
+    justify-content: center;
+    
+   
+}
+ul{
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    
+}
+ul li{
+    margin: 0 10px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(240, 231, 213);
+    font-size: 18px;
+}
+.nav-left{
+    display: flex;
+}
+.nav-right{
+    display: flex;
+    margin-left: auto;
+}
+.selectheader{
+    outline: none;
+    border: none;
+    background: none;
+    color: rgb(240, 231, 213);;
+}
+.selectfooter{
+    outline: none;
+    border: none;
+    background: none;
+    color: rgb(240, 231, 213);
+    display: flex;
+    
+}
+.card1{
+    text-align: center;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+.side2{
+    display: flex;
+    background-color: rgb(224, 219, 242);
+    margin: 10px;
+    padding: 10px;
+    
+}
+.side2-heading{
+    padding: 30px;
+    
+}
+.side2-heading1{
+    
+    color: blue;
+}
+.side3{
+    display: flex;
+}
+.side3-heading{
+    padding: 40px;
+    width: 985px;
+
+    
+}
+.side3-h1{
+    color: blue;
+    margin-left: 15%;
+
+}
+.side3-h2{
+    color: blue;
+}
+
+.side4-heading{
+    display: flex;
+    align-items: center;
+    
+}
+.side4-h1{
+    color: blue;
+}
+.side5{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.side5-heading1{
+    margin-left: 50px;
+}
+.side5-h1{
+    color: blue;
+}
+.side6-heading{
+    display: flex;
+}
+.side6-heading1{
+    margin-top: 80px;
+}
+.side6-h1{
+    color: blue;
+}
+footer{
+    background-color: rgb(1, 1, 40);
+    color: white;
+}
+link{
+    color: white;
+}
+a{  
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.footer-h>h3{
+   margin-left: 560px;
+}
+.footer-h>p{
+    margin-left: 490px;
+ }
+.container-1{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-1{
+    padding: 30px;
+}
+
+.footer-1>a{
+    display: flex;
+    width: 250px;
+}
+.footer-2{
+    padding: 30px;
+}
+
+.footer-2>a{
+    display: flex;
+    width: 250px;
+}
+.footer-3{
+    padding: 30px;
+}
+
+.footer-3>a{
+    display: flex;
+    width: 250px;
+}
+.footer-4{
+    padding: 30px;
+}
+
+.footer-4>a{
+    display: flex;
+    width: 250px;
+}
+.icons{
+    
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    background-color: rgb(11, 11, 62);
+}
